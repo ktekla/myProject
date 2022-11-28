@@ -25,4 +25,4 @@ def blabla(x,*args):
                             m=m
             print("The count of the numbers: ",n, "Their sum: ",s, "Their minimum: ",m, "Their mean: ",a)
 
-
+# it looks like I learned how to use git today
