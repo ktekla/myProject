@@ -4,10 +4,9 @@ def blabla(x,*args):
         s=0
         a=0
         if x==-1:
-            if n==0:
-                m=-1
-                a=-1
-                print(n,s,a,m)
+            m=-1
+            a=-1
+            print(n,s,a,m)
 
         else:
             s=s+x
