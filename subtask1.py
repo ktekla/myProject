@@ -9,5 +9,7 @@ def squarenumb(n):
             q=q+1
 
     print((q-1)**2)
+    
+# it looks like I learned how to use git today
 
 squarenumb(36)
