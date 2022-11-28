@@ -15,6 +15,7 @@ def blabla(x,*args):
                 if i>-1:
                     s=s+i
                     n=n+1
+                    a=s/n
                     if n==0:
                         m=i
                     else:
@@ -22,6 +23,6 @@ def blabla(x,*args):
                             m=i
                         else:
                             m=m
-            print("The count of the numbers: ",n, "Their sum: ",s, "Their minimum: ",m, "Their mean: ",s/n)
+            print("The count of the numbers: ",n, "Their sum: ",s, "Their minimum: ",m, "Their mean: ",a)
 
 
